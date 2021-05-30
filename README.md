@@ -1,8 +1,9 @@
 ## iOS 커리어 스타터 캠프
 
-### ⚾️숫자야구 프로젝트 저장소⚾️
+### ⚾️ios-numberBaseball⚾
 
-- 이 저장소를 자신의 저장소로 fork하여 프로젝트를 진행합니다
+![baseball](https://user-images.githubusercontent.com/79059747/120099199-48b3a800-c175-11eb-98c4-5848feb664b4.png)
+
 
 # 팀 그라운드룰
 ## 우리 팀만의 규칙
